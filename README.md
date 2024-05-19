@@ -14,7 +14,7 @@ To run this application locally, follow these steps:
 
 1. Clone this repository to your local machine:
 ```
-git clone [https://github.com/yourusername/library-management.git](https://github.com/Sanjay-shankar-ai/Library-Management-Frontend.git)
+git clone https://github.com/Sanjay-shankar-ai/Library-Management-Frontend.git
 ```
 2. Open the index.html file in your web browser.
 
